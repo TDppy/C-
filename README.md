@@ -1,3 +1,4 @@
 ## 基于C++（C为主）控制台的个人收支管理系统
 这是个C/C++实现的个人收支管理系统，可供C语言课程设计的同学参考，代码以C语言面向过程为主。
-在<个人收支管理系统>文件夹中有account.cpp源码 data.txt文件输入 和account.exe可执行文件。
+
+文件夹中有account.cpp源码 data.txt文件输入 和account.exe可执行文件。
